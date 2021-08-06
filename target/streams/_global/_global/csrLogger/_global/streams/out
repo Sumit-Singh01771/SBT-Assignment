@@ -1,0 +1,12 @@
+[debug] downloaded https://repo1.maven.org/maven2/com/orhanobut/logger/2.2.0/logger-2.2.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/puppetlabs/typesafe-config/0.2.0/typesafe-config-0.2.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/puppetlabs/typesafe-config/0.2.0/typesafe-config-0.2.0.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/json4s/json4s-native_2.12/4.0.3/json4s-native_2.12-4.0.3.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/android/support/support-annotations/27.1.0/support-annotations-27.1.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/json4s/json4s-native-core_2.12/4.0.3/json4s-native-core_2.12-4.0.3.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/json4s/json4s-core_2.12/4.0.3/json4s-core_2.12-4.0.3.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/android/support/support-annotations/27.1.0/support-annotations-27.1.0.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/json4s/json4s-ast_2.12/4.0.3/json4s-ast_2.12-4.0.3.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/json4s/json4s-scalap_2.12/4.0.3/json4s-scalap_2.12-4.0.3.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer-parent/2.8/paranamer-parent-2.8.pom
